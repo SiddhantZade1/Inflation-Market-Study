@@ -91,9 +91,12 @@ export FRED_API_KEY=your_key_here
 ```
 
 ### 3. Run the notebook
-```bash
-cd notebooks
-jupyter lab analysis.ipynb
+##markdown
+## 3. Run in Google Colab (Recommended)
+
+Click below to open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SiddhantZade1/Inflation-Market-Study/blob/main/analysis_colab.ipynb)
 ```
 Data is fetched on first run and cached to `data/raw/`. Subsequent runs load from cache.
 
