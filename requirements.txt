@@ -1,28 +1,10 @@
-# Inflation-Market Study — Dependencies
-# Install: pip install -r requirements.txt
-
-# ── Data ──────────────────────────────────────────────────────────────────────
-fredapi>=0.5.1
-yfinance>=0.2.36
-pandas>=2.0.0
-numpy>=1.24.0
-pandas-datareader>=0.10.0    # backup data source
-
-# ── Statistics / ML ───────────────────────────────────────────────────────────
-scipy>=1.11.0
-statsmodels>=0.14.0
-scikit-learn>=1.3.0
-hmmlearn>=0.3.0              # Hidden Markov Models
-
-# ── Visualisation ─────────────────────────────────────────────────────────────
-plotly>=5.18.0
-kaleido>=0.2.1               # static image export (optional, for saving charts)
-
-# ── Notebook ──────────────────────────────────────────────────────────────────
-jupyter>=1.0.0
-jupyterlab>=4.0.0
-ipywidgets>=8.0.0
-
-# ── Utilities ─────────────────────────────────────────────────────────────────
-python-dotenv>=1.0.0         # load FRED_API_KEY from .env file
-tqdm>=4.66.0                 # progress bars
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+yfinance
+pandas_datareader
+fredapi
+statsmodels
+scikit-learn
