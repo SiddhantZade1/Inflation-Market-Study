@@ -124,3 +124,21 @@ This suggests sector rotation can serve as a tactical inflation hedge.
 ---
 
 ## Repository Structure
+---
+
+## Tools & Libraries
+
+- Python  
+- pandas  
+- numpy  
+- matplotlib  
+- statsmodels  
+- hmmlearn  
+
+---
+
+## Author
+
+Siddhant Zade  
+MS Finance  
+Focused on macro-driven asset allocation & systematic research  
