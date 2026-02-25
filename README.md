@@ -57,7 +57,7 @@ This produces four macro regimes:
 
 ### Inflation Regimes (1960–Present)
 
-![Inflation Regimes](images/inflation_regimes.png)
+![Inflation Regimes](images/regime_timeline.png)
 
 ---
 
@@ -67,7 +67,7 @@ Mean monthly returns were calculated across major asset classes within each regi
 
 ### Mean Monthly Return by Asset & Inflation Regime
 
-![Mean Returns](images/mean_returns_by_regime.png)
+![Mean Returns by Regime](images/mean_returns_by_regime.png)
 
 ### Observations
 
@@ -100,7 +100,7 @@ R_sector = α + β × Inflation + ε
 
 ### Inflation Beta by Sector
 
-![Inflation Beta](images/inflation_beta_by_sector.png)
+![Inflation Beta by Sector](images/inflation_beta_by_sector.png)
 
 ### Key Observations
 
